@@ -1,5 +1,7 @@
 # Football Analytics Copilot by Eladio Rincón
 
+![Presentation image](https://pbs.twimg.com/media/GdDxeKLXoAAU_Si?format=jpg&name=large)
+
 ## The Application
 
 simplified interface for user-friendly mode
