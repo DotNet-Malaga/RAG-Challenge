@@ -1,4 +1,4 @@
-# Football Analytics Copilot
+# Football Analytics Copilot by Eladio Rincón
 
 ## The Application
 
