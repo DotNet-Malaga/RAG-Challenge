@@ -1,6 +1,6 @@
 # Football Analytics Copilot by Eladio Rincón
 
-![Presentation image](https://pbs.twimg.com/media/GdDxeKLXoAAU_Si?format=jpg&name=large)
+![Presentation image](https://pbs.twimg.com/media/GdDyOU9XAAAY8vp?format=jpg&name=large)
 
 ## The Application
 
